@@ -5,7 +5,6 @@ tags:
 - Mafia
 categories:
 - Paint
-
 ---
 
 用作log封面
